@@ -51,11 +51,11 @@ WorkBuddy 给出三个创意方向供用户选择，用户选择「我有别的�
 `query-my-account` 返回：
 
 ```json
-{"availablePoint":"285.5","accumulativePoint":"477.1",
- "currentMouthExpirePoint":"154.6","expiredPoint":"191.6"}
+{"availablePoint":"320.0","accumulativePoint":"480.0",
+ "currentMouthExpirePoint":"168.0","expiredPoint":"120.0"}
 ```
 
-191.6 分**已经过期作废**，154.6 分**本月将过期**。
+120 分**已经过期作废**，168 分**本月将过期**。
 积分不是余额，是**有保质期的资产**。
 
 ### 发现 2：积分商城的价格陷阱（本项目的立足点）
